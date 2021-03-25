@@ -1,0 +1,106 @@
+    1  exit
+    2  code .
+    3  git clone https://github.com/hi-heavens/youtube-clone.git
+    4  exit
+    5  ls
+    6  ls /
+    7  pwd
+    8  cd home
+    9  cd
+   10  ls -l
+   11  ls -R
+   12  man ls
+   13  man cd
+   14  pwd
+   15  cd Desktop/
+   16  cd Test
+   17  touch index.html
+   18  touch style.css
+   19  code .
+   20  exit
+   21  git init
+   22  git add .
+   23  git status
+   24  git commit -m "decoriq first push"
+   25  git remote add origin https://github.com/hi-heavens/decoriq.git
+   26  git push -u origin master
+   27  git status
+   28  git push
+   29  git push -u origin main
+   30  exit
+   31  git init
+   32  git status
+   33  git add
+   34  git add .
+   35  git commit -m "My first decoriq"
+   36  git remote add origin https://github.com/hi-heavens/decoriq.git
+   37  git push -u origin main
+   38  git status
+   39  git add .
+   40  git push -u origin main
+   41  git commit -m "Removed the dummy background"
+   42  git push -u origin main
+   43  git add .
+   44  git commit -m "change of title"
+   45  git push -u origin main
+   46  exit
+   47  ls
+   48  mkdir git-basic-exercises
+   49  ls
+   50  cd git-basic-exercises/
+   51  ls -a
+   52  git init
+   53  ls -a
+   54  gi status
+   55  git status
+   56  touch README.md
+   57  ls -a
+   58  git status
+   59  git log
+   60  git add
+   61  git add .
+   62  git status
+   63  git reset README.md
+   64  git status
+   65  git add .
+   66  git commit -m "initial commit"
+   67  git log
+   68  nano README.md
+   69  cat README.md
+   70  git status
+   71  git commit -m "second commit"
+   72  git add .
+   73  git commit -m "second commit"
+   74  nano README.md
+   75  cat README.md
+   76  git add .
+   77  git commit -m "third commit"
+   78  git status
+   79  git log
+   80  git checkout 49928533b13b09dc23008750e6f01731d5846c88
+   81  cat README.md
+   82  git checkout main
+   83  cat README.md
+   84  it branch
+   85  git branch
+   86  git checkout milkshake-flavours
+   87  git branch milkshake-flavours
+   88  git branch
+   89  git checkout milkshake-flavours
+   90  git branch
+   91  git checkout main
+   92  git branch
+   93  git checkout milkshake-flavours
+   94  nano milkshakes.md
+   95  git status
+   96  git commit -m "added initial flavours"
+   97  git add .
+   98  git status
+   99  git commit -m "added initial flavours"
+  100  git log
+  101  git checkout main
+  102  git branch history
+  103  git checkout history
+  104  git log
+  105  git branch
+  106  history > history.txt
